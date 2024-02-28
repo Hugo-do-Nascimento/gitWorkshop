@@ -1,0 +1,16 @@
+# Aula sobre Git
+
+## meus primeiros commits
+
+esses testes são voltados para aprimoramento dos meus conhecimentos
+sobre git 
+
+comandos 
+
+git init
+git config
+git add .
+git commit
+git push
+git ls
+git log
